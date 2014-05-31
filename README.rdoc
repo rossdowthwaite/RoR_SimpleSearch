@@ -1,3 +1,3 @@
 == README
 
-Simple search implemenation using <tt>Ransack</tt> and <tt>will_paginate</tt> gems
+Simple search implemenation using <tt>will_paginate</tt> gem
